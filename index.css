@@ -1,0 +1,42 @@
+.container{
+	color: #142c3f;
+  background-color: #877284;
+  font-size:	100%;
+	font-weight: bolder;
+	}
+
+#alice  {
+  font-family: 'Alice', serif;
+  font-size: 43px; 
+  text-align: center;
+} 
+
+#whimsy {
+  font-family: 'Amatic SC', cursive;
+  font-size: 35px;
+  text-align: center;
+}
+
+ul > li {
+  font-family: 'Lobster Two', cursive;
+  font-size: 22px;
+}
+  
+ol > li {
+  font-family: 'Satisfy', cursive;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#cinzel {
+  font-family: 'Cinzel', serif;
+  font-size: 17px;
+  text-align: center;
+  display: block;
+}
+
+#kaushan {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 22px; 
+  text-align: center;
+}

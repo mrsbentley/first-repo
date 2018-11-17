@@ -1,2 +1,4 @@
-# first-repo
-virgin expedition 
+# cutting my teeth
+my first repo
+
+
